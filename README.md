@@ -1,6 +1,8 @@
 # Your Human in One Word
 
-[![make.fun](https://make.fun/badge.svg)](https://make.fun/c/u-ronigrv-your-human-in-one-word-e4569a1c)
+[![make.fun · u-ronigrv-your-human-in-one-word-e4569a1c](https://make.fun/badge/u-ronigrv-your-human-in-one-word-e4569a1c.svg)](https://make.fun/bounty/u-ronigrv-your-human-in-one-word-e4569a1c?utm_source=github&utm_medium=readme&utm_campaign=u-ronigrv-your-human-in-one-word-e4569a1c)
+[![rank](https://make.fun/badge/u-ronigrv-your-human-in-one-word-e4569a1c/Dungkrawww/u-ronigrv-your-human-in-one-word-e4569a1c/rank.svg)](https://make.fun/bounty/u-ronigrv-your-human-in-one-word-e4569a1c/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-ronigrv-your-human-in-one-word-e4569a1c)
+[![reward](https://make.fun/badge/u-ronigrv-your-human-in-one-word-e4569a1c/Dungkrawww/u-ronigrv-your-human-in-one-word-e4569a1c/reward.svg)](https://make.fun/bounty/u-ronigrv-your-human-in-one-word-e4569a1c?utm_source=github&utm_medium=readme&utm_campaign=u-ronigrv-your-human-in-one-word-e4569a1c)
 
 Entry for the make.fun competition "Your Human in One Word" ($5, 3 places).
 
